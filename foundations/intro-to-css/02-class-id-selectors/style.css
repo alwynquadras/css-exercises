@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+.light.pink{
+  color: rgb(255, 182, 193);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second{
+  color: rgb(31, 31, 161);
+  font-size: 36px;
+}
+
+.light.pink#third{
+  color: rgb(255, 182, 193);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  font-size: 24px;
+}
+
+#fourth{
+  color: rgb(13, 229, 82);
+  font-size: 24px;
+  font-weight: bold;
+}
